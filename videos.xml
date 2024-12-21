@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Videos>
   <Video ID="HevqaUZDmNA" Name="DISMTools - 2 Years" Description="Let's celebrate the 2 years of this project and explore its history together. Please enable video subtitles for the original lyrics" />
-  <Video ID="_3BPjLseszs" Name="Introducing DISMTools 0.5" Description="This new release comes with many features and enhancements that make managing Windows images an easier task. To learn about these new features in more depth, check out the Help documentation." />
-  <Video ID="S9W9sw0fJTA" Name="Appending and exporting in DISMTools 0.5" Description="DISMTools 0.5 comes with new tasks that let you append changes to a separate index in a Windows image and export indexes to a new image file." />
+  <Video ID="taRgE2ycCjs" Name="Introducing DISMTools 0.6" Description="This new release comes with many features and enhancements that make managing Windows images an easier task. To learn about these new features in more depth, check out the Help documentation." />
   <Video ID="9vaQokZTsrQ" Name="Getting started with DISMTools" Description="If you are new to DISMTools or image servicing, this tutorial can help you get started." />
   <Video ID="cp661e5cHTc" Name="Using the image information dialogs" Description="The image information dialogs let you get and save information about specific elements of the image you're working on. Learn how to make the most of them in this tutorial." />
 </Videos>
